@@ -1,0 +1,7 @@
+echo "# CreateZbora" >> README.md 
+git init
+git добавить README.md 
+git commit -m "первая фиксация"
+ветка git -M главная
+git remote add originhttps://github.com/kniknivadim/CreateZbora.git
+git push -u origin main
